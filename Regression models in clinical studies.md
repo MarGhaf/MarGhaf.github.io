@@ -1,1 +1,3 @@
+# Regression models in clinical studies
 
+Clinical research are increasingly using multiple regression models. These models are effective analytical tools that produce trustworthy predictions and allow for studying of statistical inferences. Regression models make two different kinds of assumptions about the response variable's distribution and the form or structure of the connection between the predictors and the answer. In the past medical authors generally used linear regression to summarize the data or to calculate the correlation between two variables but now machine learing help them to build 
