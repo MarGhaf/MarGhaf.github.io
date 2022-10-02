@@ -1,10 +1,10 @@
 # Regression Models in Clinical Studies
 
 ![image](https://user-images.githubusercontent.com/101681195/193373963-10cb8e42-fc14-4a14-86aa-ca4e8f2c658e.png)
-
+Image adapted from [2]
 
 ## Introduction
-Clinical research are increasingly using multiple regression models. These models are effective analytical tools that produce reliable predictions and allow for studying of statistical inferences. Regression models make two different kinds of assumptions about the response variable's distribution and the form or structure of the connection between the predictors and the answer. In the past medical authors generally used simple linear regression to summarize the data or to calculate the correlation between an independent variable (such as bone mineral density) and a dependent variable (such as ageing) but now machine learing help them to build complecated model based on much larger sample size and more features. Multiple regresion, logistic regression, and effects  regression models are common regression models that have been used in clinical studies. In the following, a number of researches in this field will be discussed. 
+Clinical research are increasingly using regression models. These models are effective analytical tools that produce reliable predictions and allow for studying of statistical inferences. Regression models make two different kinds of assumptions about the response variable's distribution and the form or structure of the connection between the predictors and the answer. In the past medical authors generally used simple linear regression to summarize the data or to calculate the correlation between an independent variable (such as bone mineral density) and a dependent variable (such as ageing) but now machine learing help them to build complecated model based on much larger sample size and more features.These models use to assess therapeutic efficacy, study risk factors, explore prognostic patterns, and derive predictions for individual patients. Multiple regresion, logistic regression, and effects  regression models are common regression models that have been used in clinical studies. In the following, a number of researches in this field will be discussed. 
 
 ## Multiple Regresion Model
 Multiple regression is a statistical technique that can be used to analyze the relationship between a single dependent variable and several independent variables. The objective of multiple regression analysis is to use the independent variables whose values are known to predict the value of the single dependent value.
