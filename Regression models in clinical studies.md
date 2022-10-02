@@ -31,9 +31,14 @@ mortality hazard due to cancer and the expected mortality hazard due to other ca
 
 ## Reference
 [1] Jaccard, James, et al. "Multiple regression analyses in clinical child and adolescent psychology." Journal of Clinical Child and Adolescent Psychology 35.3 (2006): 456-479.
+
 [2] Zabor, Emily C., et al. "Logistic regression in clinical studies." International Journal of Radiation Oncology* Biology* Physics (2021).
+
 [3] Aoyama, Kazuyoshi, et al. "Determining associations and estimating effects with regression models in clinical anesthesia." Anesthesiology 133.3 (2020): 500-509.
+
 [4] Alaka, Shakiru A., et al. "Functional outcome prediction in ischemic stroke: a comparison of machine learning algorithms and regression models." Frontiers in neurology 11 (2020): 889.
+
 [5] Arsène, Simon, et al. "Modeling the disruption of respiratory disease clinical trials by non-pharmaceutical COVID-19 interventions." Nature communications 13.1 (2022): 1-10.
+
 [6] Remontet, Laurent, et al. "An overall strategy based on regression models to estimate relative survival and model the effects of prognostic factors in cancer survival studies." Statistics in medicine 26.10 (2007): 2214-2228.
 
