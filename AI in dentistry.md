@@ -3,6 +3,7 @@ Artificial intelligence (AI) is the simulation of intelligence exhibited by anim
 <p align="center">
 <img src="https://user-images.githubusercontent.com/101681195/207352651-f1e7eeda-e890-4958-9f3a-4701f6ecd2d2.png" width=50% height=50%>
 </p>
+
 ***Figure 1. Type of AI***
 
 
