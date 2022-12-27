@@ -45,3 +45,17 @@ Artificial intelligence (AI) is being used in a variety of ways in the field of 
 5.	Clinical decision support: AI can provide dentists with real-time recommendations based on the latest dental evidence and guidelines.
 Overall, AI has the potential to improve patient care and reduce the burden on dental practices by automating routine tasks and enabling dentists to focus on more complex and challenging cases. However, it is important to note that AI is not a replacement for human expertise, and its use in dentistry should always be guided by ethical principles.
 
+## Diagnosis (Dental Radiology)
+Artificial intelligence (AI) algorithms, particularly machine learning algorithms, are increasingly being used in the field of radiology to assist with diagnosis. Some of the most commonly used AI algorithms in radiology include:
+
+- Convolutional neural networks (CNNs): These are a type of neural network that are particularly effective at analyzing images and are commonly used in medical imaging for tasks such as segmentation and classification.
+
+- Deep learning: This is a type of machine learning that involves the use of multi-layered neural networks to analyze large datasets and make predictions. Deep learning algorithms are often used in radiology to analyze medical images and assist with diagnosis.
+
+- Natural language processing (NLP): This is a type of AI that is used to analyze and interpret human language. In radiology, NLP algorithms may be used to extract information from radiology reports and other medical documents.
+
+- Decision trees: This is a type of machine learning algorithm that involves creating a flowchart-like tree of decisions, with each branch representing a possible outcome. Decision trees may be used in radiology to assist with diagnosis by analyzing a set of input features and predicting the most likely diagnosis based on those features.
+
+- Support vector machines (SVMs): This is a type of machine learning algorithm that is used to classify data points by finding the hyperplane in a high-dimensional space that maximally separates the points into different categories. SVMs are often used in medical imaging to classify different types of abnormalities or lesions.
+
+It's important to note that AI algorithms are typically used to assist with diagnosis, rather than replacing the role of a radiologist. AI can help radiologists analyze images more efficiently and accurately, but the final diagnosis is still made by the radiologist based on their expertise and knowledge.
