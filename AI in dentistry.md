@@ -25,17 +25,18 @@ Overall, AI has the potential to improve patient care and reduce the burden on h
 # AI in dentistry
 Dentistry is a branch of medicine that focuses on the health of the teeth and mouth. Dentists are medical professionals who are trained to diagnose, prevent, and treat a variety of conditions and diseases that affect the teeth and mouth. These may include cavities, gum disease, and other infections, as well as problems with the bite, jaw, and facial structure. Dentists also perform a variety of procedures, such as filling cavities, extracting teeth, and placing crowns and bridges. In addition to providing clinical care, dentists may also educate patients on how to maintain good oral hygiene and prevent dental problems. There are several branches of dentistry that focus on specific areas of the mouth and teeth. Some of the main branches of dentistry include:
 
-Orthodontics: This branch of dentistry deals with the alignment of the teeth and jaw, and involves the use of braces, retainers, and other devices to correct misalignment and improve the appearance of the teeth.
+- Orthodontics: This branch of dentistry deals with the alignment of the teeth and jaw, and involves the use of braces, retainers, and other devices to correct misalignment and improve the appearance of the teeth.
 
-Periodontics: This branch focuses on the health of the gums and the tissues that support the teeth. Periodontists diagnose and treat gum disease and may also perform procedures such as gum grafts and bone regeneration to restore the health of the gums and support structures.
+- Periodontics: This branch focuses on the health of the gums and the tissues that support the teeth. Periodontists diagnose and treat gum disease and may also perform procedures such as gum grafts and bone regeneration to restore the health of the gums and support structures.
 
-Endodontics: This branch focuses on the inside of the teeth, specifically the pulp and the nerves. Endodontists perform procedures such as root canals to treat infections and injuries to the pulp and nerves.
+- Endodontics: This branch focuses on the inside of the teeth, specifically the pulp and the nerves. Endodontists perform procedures such as root canals to treat infections and injuries to the pulp and nerves.
 
-Prosthodontics: This branch deals with the replacement of missing teeth and the repair of damaged teeth. Prosthodontists may create and place crowns, bridges, and dentures to restore the appearance and function of the teeth.
+- Prosthodontics: This branch deals with the replacement of missing teeth and the repair of damaged teeth. Prosthodontists may create and place crowns, bridges, and dentures to restore the appearance and function of the teeth.
 
-Pediatric dentistry: This branch focuses on the oral health of children and adolescents. Pediatric dentists are specially trained to provide dental care for children, including preventive care and treatments for common dental problems.
+- Pediatric dentistry: This branch focuses on the oral health of children and adolescents. Pediatric dentists are specially trained to provide dental care for children, including preventive care and treatments for common dental problems.
 
-Oral and maxillofacial surgery: This branch involves the surgical treatment of problems related to the mouth, teeth, and facial structures. Oral and maxillofacial surgeons may perform procedures such as wisdom tooth extractions and jaw surgery.
+- Oral and maxillofacial surgery: This branch involves the surgical treatment of problems related to the mouth, teeth, and facial structures. Oral and maxillofacial surgeons may perform procedures such as wisdom tooth extractions and jaw surgery.
+
 Artificial intelligence (AI) is being used in a variety of ways in the field of dentistry, including:
 1.	Diagnosis: AI algorithms can analyze dental images, such as X-rays and 3D scans, to identify abnormalities and make a diagnosis.
 2.	Treatment planning: AI can analyze patient data and medical images to create customized treatment plans for procedures such as orthodontics and implant placement.
